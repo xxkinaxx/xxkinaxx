@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **Bootstrap, Tailwind, Laravel**
 
+- 👨‍💻 All of my projects are available at [https://xxkinaxx.github.io/Portofolio/](https://xxkinaxx.github.io/Portofolio/)
+
+- 📫 How to reach me **ekopandu088@gmail.com**
+
+- ⚡ Fun fact **I like to coding in my free time, and i like to practice through many ways possible**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/eko pandu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eko pandu" height="30" width="40" /></a>
