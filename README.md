@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Tailwind, Laravel**
 
-- 👨‍💻 All of my projects are available at [https://xxkinaxx.github.io/Portofolio/](https://xxkinaxx.github.io/Portofolio/)
+- 👨‍💻 All of my projects are available at [[https://xxkinaxx.github.io/Portofolio/](https://ekopanduportofolio.netlify.app)]([https://xxkinaxx.github.io/Portofolio/](https://ekopanduportofolio.netlify.app))
 
 - 📫 How to reach me **ekopandu088@gmail.com**
 
